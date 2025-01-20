@@ -75,6 +75,10 @@ extern unsigned long __data_load;
 extern unsigned long __data_start;
 extern unsigned long __data_end;
 
+extern unsigned long __srodata_load;
+extern unsigned long __srodata_start;
+extern unsigned long __srodata_end;
+
 extern unsigned long __sbss_start;
 extern unsigned long __sbss_end;
 
