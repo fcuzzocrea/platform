@@ -4,7 +4,6 @@ files:
   - 'drivers/mss/mss_gpio/mss_gpio.c'
   - 'drivers/mss/mss_rtc/mss_rtc.c'
   - 'drivers/mss/mss_mmuart/mss_uart.c'
-  - 'drivers/mss/mss_sys_services/mss_sys_services.c'
   - 'mpfs_hal/common/nwc/mss_cfm.c'
   - 'mpfs_hal/common/nwc/mss_ddr.c'
   - 'mpfs_hal/common/nwc/mss_ddr_debug.c'
